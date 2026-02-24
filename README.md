@@ -7,7 +7,7 @@ Design Goals:
 - Reliable charger with USB input
 - Clean PCB layout
 - Proper power and ground layout management
-- Good thermal behavior
+- Good thermal performance
 
 ## Overview
 
